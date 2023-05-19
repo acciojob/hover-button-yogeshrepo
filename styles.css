@@ -7,5 +7,6 @@
 }
 #btn:hover{
 	background-color: yellow;
+	border:  none ;
 	border-radius: 30px;
 }
